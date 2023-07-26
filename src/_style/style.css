@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.image-container {
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
